@@ -1,3 +1,6 @@
+//Insertion at Beginning and End of the list
+//Deletion from Beginning and End of the list
+
 #include<iostream>
 using namespace std;
 
