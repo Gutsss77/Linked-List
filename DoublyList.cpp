@@ -1,3 +1,7 @@
+//Opertaion on Doubly linked list 
+// Insertion at head and tail 
+// Traversing the list
+
 #include<iostream>
 using namespace std;
 
